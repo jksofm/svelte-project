@@ -1,0 +1,145 @@
+{
+  "headerUserData": {
+    "logo": "https://placehold.co/120x60",
+    "menuLinks": [
+      {
+        "label": "Home",
+        "link": "/"
+      },
+      {
+        "label": "About",
+        "link": "/about",
+        "children": [
+          {
+            "label": "Team",
+            "link": "/about"
+          }
+        ]
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "footerData": {
+    "logo": "https://placehold.co/150x75",
+    "exploreLinks": [
+      {
+        "label": "About",
+        "link": "/"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "infoData": {
+    "email": "info22222@example.com",
+    "address": "55 Main Street, 2nd block, Malborne ,Australia",
+    "phoneNumberDisplay": "+236 (456) 896 22",
+    "phoneNumber": "+23645689622",
+    "logo": "http://localhost:3000/uploads/1733206976919.png",
+    "dateWorking": "Monday to Friday",
+    "timeStart": "9.30am",
+    "timeEnd": "6.30pm",
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "link": "#",
+        "iconClass": "fab fa-facebook-f"
+      },
+      {
+        "icon": "Twitter",
+        "link": "#",
+        "iconClass": "fab fa-twitter"
+      },
+      {
+        "icon": "Printerest",
+        "link": "#",
+        "iconClass": "fab fa-pinterest-p"
+      }
+    ]
+  },
+  "aboutData": {
+    "imgLarge": "https://placehold.co/437x530",
+    "img": "https://placehold.co/269x277",
+    "avatarCeo": "https://placehold.co/68x68",
+    "title": "Welcome to Experience Visa Consulting Firm",
+    "description": "Transmds is the world’s driving worldwide coordinations supplier — we uphold industry and exchange the worldwide trade of merchandi",
+    "circleBars": [
+      {
+        "title": "Business Strategy",
+        "percent": 68
+      },
+      {
+        "title": "Real Technology Solutions",
+        "percent": 93
+      }
+    ],
+    "aboutList": [
+      "Immigration & Visa Consulting",
+      "Direct Online Interview",
+      "99% Visa Approvals"
+    ]
+  },
+  "heroData": {
+    "slides": [
+      {
+        "background": "http://localhost:3000/uploads/1733222343498.png",
+        "tag": "Your Most Trusted Partnersaaaaaaaa",
+        "title": "Immigration & <br>  Visa Consulting <br>  Here...",
+        "description": "Transmds is the world’s driving worldwide coordinations supplier we uphold <br> industry and exchange  the worldwide trade of merchandi",
+        "btnLink": "/",
+        "btnText": "Learn More"
+      },
+      {
+        "background": "https://placehold.co/1920x800",
+        "tag": "Your Most Trusted Partners",
+        "title": "Immigration & <br>  Visa Consulting <br>  Here...",
+        "description": "Transmds is the world’s driving worldwide coordinations supplier we uphold <br> industry and exchange  the worldwide trade of merchandi",
+        "btnLink": "/",
+        "btnText": "Learn More"
+      },
+      {
+        "background": "http://localhost:3000/uploads/1733217714766.png",
+        "tag": "sadasd",
+        "title": "sadasdsa",
+        "description": "sadasdasd",
+        "btnLink": "/home",
+        "btnText": "find more"
+      }
+    ]
+  },
+  "serviceData": {
+    "title": "Service We Provide",
+    "heading": "Explore Our Visa Citizenship <br> & Immigration Services",
+    "services": [
+      {
+        "title": "Business Visa",
+        "description": "Sit amet consectetur bestibulu ullamcorer arcustulla amet dolor tortor elementum",
+        "image": "https://placehold.co/350x270",
+        "link": ""
+      },
+      {
+        "title": "Student Visa",
+        "description": "Sit amet consectetur bestibulu ullamcorer arcustulla amet dolor tortor elementum",
+        "image": "https://placehold.co/350x270",
+        "link": ""
+      },
+      {
+        "title": "Work Visa",
+        "description": "Sit amet consectetur bestibulu ullamcorer arcustulla amet dolor tortor elementum",
+        "image": "https://placehold.co/350x270",
+        "link": ""
+      },
+      {
+        "title": "Touriest Visa",
+        "description": "Sit amet consectetur bestibulu ullamcorer arcustulla amet dolor tortor elementum",
+        "image": "https://placehold.co/350x270",
+        "link": ""
+      }
+    ]
+  }
+}
